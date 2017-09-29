@@ -152,7 +152,7 @@ var colors = {
 
 var colorsArr = []; 
 for( var i = 0; i < Object.keys(colors).length - 1; i++){ 
-	colorsArr.push( [ Object.keys(colors)[i], 'rgb(' + Object.values(colors)[i].join('') + ')' ] );
+	colorsArr.push( [ Object.keys(colors)[i], 'rgb(' + Object.values(colors)[i].join(',') + ')' ] );
 }; 
 
 /**
