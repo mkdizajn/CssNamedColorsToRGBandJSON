@@ -3,7 +3,7 @@
 * You can include it in your project and access for example like this:
 
 ```html
-    <script src="https://goo.gl/YtGixQ"></script>
+    <script src="https://goo.gl/FtVjyZ"></script>
 ```
 
 * then you can use it in your project like this (get random color example)
