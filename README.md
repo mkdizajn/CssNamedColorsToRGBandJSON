@@ -4,4 +4,4 @@
 
 	colorsArr[1][1] => "rgb(250235215)"
 
--
+- cheers, kres
